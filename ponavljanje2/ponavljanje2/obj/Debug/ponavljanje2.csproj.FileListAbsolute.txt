@@ -1,0 +1,8 @@
+C:\Users\Korisnik\source\repos\ponavljanje2\ponavljanje2\obj\Debug\ponavljanje2.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\ponavljanje2\ponavljanje2\obj\Debug\ponavljanje2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\source\repos\ponavljanje2\ponavljanje2\obj\Debug\ponavljanje2.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\ponavljanje2\ponavljanje2\bin\Debug\ponavljanje2.exe.config
+C:\Users\Korisnik\source\repos\ponavljanje2\ponavljanje2\bin\Debug\ponavljanje2.exe
+C:\Users\Korisnik\source\repos\ponavljanje2\ponavljanje2\bin\Debug\ponavljanje2.pdb
+C:\Users\Korisnik\source\repos\ponavljanje2\ponavljanje2\obj\Debug\ponavljanje2.exe
+C:\Users\Korisnik\source\repos\ponavljanje2\ponavljanje2\obj\Debug\ponavljanje2.pdb
